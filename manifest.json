@@ -34,8 +34,13 @@
     ],
     "browser_specific_settings": {
         "gecko": {
-            "id": "overleaf-dark-mode@example.com",
-            "strict_min_version": "109.0"
+            "id": "overleaf-dark-mode@example.acfharbinger.com",
+            "strict_min_version": "109.0",
+            "data_collection_permissions": {
+                "required": [
+                    "none"
+                ]
+            }
         }
     }
 }
